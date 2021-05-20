@@ -1,0 +1,32 @@
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe.config
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.pdb
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csprojResolveAssemblyReference.cache
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.Properties.Resources.resources
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csproj.GenerateResource.Cache
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.exe
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.pdb
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.MainForm.resources
+C:\Users\HMC\Documents\Visual Studio 2015\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.SingUP.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe.config
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.pdb
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csprojResolveAssemblyReference.cache
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.MainForm.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.Properties.Resources.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.SingUP.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csproj.GenerateResource.Cache
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.exe
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.pdb
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe.config
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.exe
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\bin\Debug\System Resource Recoder.pdb
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csprojResolveAssemblyReference.cache
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.HWMn.resources
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.MainForm.resources
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.Properties.Resources.resources
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System_Resource_Recoder.SingUP.resources
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csproj.GenerateResource.Cache
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.csproj.CoreCompileInputs.cache
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.exe
+C:\Users\kac44\source\repos\System Resource Recoder\System Resource Recoder\obj\Debug\System Resource Recoder.pdb
